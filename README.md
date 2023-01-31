@@ -26,7 +26,7 @@ I am a Software Enginnering student at Bahcesehir University 👩‍🎓
 
 - :mailbox:How to reach me: bengisusagir@gmail.com
   <hr>
-  ### :hammer_and_wrench: Languages and Tools : 
+   :hammer_and_wrench: Languages and Tools : 
   <div>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

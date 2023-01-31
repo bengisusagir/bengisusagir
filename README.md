@@ -23,9 +23,7 @@
   <br>
 I am a Software Enginnering student at Bahcesehir University 👩‍🎓
   
-- 🌱 I’m learning Html,Css,Bootstrap,Javascript
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🌱 I’m learning Html,Css,Bootstrap,Javascript and Java
 
 - :mailbox:How to reach me: bengisusagir@gmail.com
   </div>

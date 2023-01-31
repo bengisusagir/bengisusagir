@@ -39,11 +39,5 @@ I am a Software Enginnering student at Bahcesehir University 👩‍🎓
 
 </div>
   
-   <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusagir&show_icons=true&theme=radical&locale=en&layout=compact" alt="bengisusagir"/></p>
+   <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusagir&show_icons=true&theme=radical" alt="bengisusagir"/></p>
   </div>
-
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusagir&show_icons=true&theme=radical&locale=en&layout=compact" alt="bengisusagir"/></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisusagir&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisusagir&layout=compact&theme=merko)](https://github.com/bengisusagir/github-readme-stats)

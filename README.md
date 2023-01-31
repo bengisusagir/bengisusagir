@@ -38,9 +38,9 @@ I am a Software Enginnering student at Bahcesehir University 👩‍🎓
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
 
 </div>
+  
+   <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusagir&show_icons=true&theme=radical&locale=en&layout=compact" alt="bengisusagir"/></p>
   </div>
-  `<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusagir&show_icons=true&theme=radical&locale=en&layout=compact"/></p>`
-  
-  
-  ![Github stats 1](https://github-readme-stats.vercel.app/api?username=bengisusagir&show_icons=true&theme=gradient)
+
+
 

@@ -41,7 +41,6 @@ I am a Software Enginnering student at Bahcesehir University 👩‍🎓
   
    <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusagir&show_icons=true&theme=radical&locale=en&layout=compact" alt="bengisusagir"/></p>
   </div>
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed7578421fd409d692d9d8faf89d6a4dd66a1fc9e8e4067f71edb233b5c7bc80/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7365726861747a756e6c756f676c752673686f775f69636f6e733d74727565267468656d653d7261646963616c266c6f63616c653d656e266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/ed7578421fd409d692d9d8faf89d6a4dd66a1fc9e8e4067f71edb233b5c7bc80/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7365726861747a756e6c756f676c752673686f775f69636f6e733d74727565267468656d653d7261646963616c266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="bengisusagir" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusagir&amp;show_icons=true&amp;theme=radical&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a></p>
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusagir&show_icons=true&theme=radical&locale=en&layout=compact" alt="bengisusagir"/></p>
 

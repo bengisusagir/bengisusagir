@@ -39,7 +39,8 @@ I am a Software Enginnering student at Bahcesehir University 👩‍🎓
 
 </div>
   </div>
-  <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusagir&show_icons=true&theme=radical&locale=en&layout=compact"/></p>
-
+  `<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusagir&show_icons=true&theme=radical&locale=en&layout=compact"/></p>`
   
+  
+  ![Github stats 1](https://github-readme-stats.vercel.app/api?username=bengisusagir&show_icons=true&theme=gradient)
 

@@ -22,7 +22,7 @@
   <br>
 I am a Software Enginnering student at Bahcesehir University 👩‍🎓
   
-- 🌱 I’m learning Html,Css,Bootstrap,Javascript and Java
+- 🌱 I’m learning Html,Css,Javascript,Java and Reactjs
 
 - :mailbox:How to reach me: bengisusagir@gmail.com
   <hr>

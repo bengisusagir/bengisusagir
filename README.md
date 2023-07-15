@@ -36,7 +36,9 @@ I am a Software Enginnering student at Bahcesehir University 👩‍🎓
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visualstudio" alt="Visualstudio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bengisusagir&label=Profile%20views&color=753CC1&style=flat" alt="bengisusagir" /> </p>
 
 </div>
+
 
   </div>

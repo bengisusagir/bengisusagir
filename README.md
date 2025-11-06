@@ -17,8 +17,6 @@
 ### 👩‍💻 About Me
 - 🎓 I’m a **Software Engineering student** at **Bahçeşehir University**  
 - 💼 Currently working as a **Part Time Software Engineer at Siemens**  
-- 💡 Passionate about embedded systems, software development, and technology innovation  
-- 🌱 Constantly learning and improving my skills in **Java**, **React**, and **IoT**  
 - 📫 Reach me at: **bengisusagir@gmail.com**
 
 ---
@@ -31,8 +29,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="50" height="50"/>&nbsp;
 </div>
 
 ---

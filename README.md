@@ -6,7 +6,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/bengisu-sağır/">
+  <a href="https://www.linkedin.com/in/bengisu-sagir/">
     <img src="https://img.shields.io/badge/LinkedIn-💼-EA4AAA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:bengisusagir@gmail.com">
